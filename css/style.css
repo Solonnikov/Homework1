@@ -1,0 +1,46 @@
+html {
+	width:100%
+	family-font:Arial, serif;
+	background-color: gray;
+}
+body {
+	width:50%;
+	margin-left: 300px;
+	background-color: lightgray;
+	padding:25px;
+
+}
+.main {
+	width:60%;
+	margin-left: 20%;
+	padding-bottom: 30%;
+}
+h1 {
+text-align: center;
+font-size: 26px;
+}
+h3 {
+	color:gray;
+	font-size: 0.5rem;
+}
+h2 {
+	font-size: 1rem;
+	font-weight: bold;
+}
+hr {
+	color:gray;
+}
+img {
+	width:50%;
+	margin-left: 25%;
+}
+li.tel {
+	list-style-type: none;
+}
+li.vk {
+	list-style-type: none;
+	font-style: italic;
+}
+/* * {
+	border:1px solid black;
+}*/
